@@ -6,12 +6,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-nav * {
     color: white;
 }
-
 nav > * {
     padding: 0px 15px;
 }
